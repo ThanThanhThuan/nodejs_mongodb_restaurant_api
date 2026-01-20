@@ -4,6 +4,9 @@ Tech Stack: Node.js, Express.js, MongoDB (Mongoose).
 
 This backend serves as the REST API for the application. It handles data persistence for table reservations and communicates with the MongoDB database.
 
+<img width="1607" height="855" alt="image" src="https://github.com/user-attachments/assets/597bf0a0-bee9-43e7-8bbf-ec826324ad62" />
+
+
     Key Files & Structure:
 
         server.js: The entry point. It connects to MongoDB, configures Middleware (CORS, JSON parsing), and defines the API routes.
